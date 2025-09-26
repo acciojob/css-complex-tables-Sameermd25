@@ -10,7 +10,7 @@ th{
 }
 th, td {
   border:solid orange;
-  border-width:1px;
+  border-width: 1px 1px 0px 0px;
   padding: 3px 5px;
   text-align: center;
 }
