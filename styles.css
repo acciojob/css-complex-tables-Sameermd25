@@ -2,7 +2,7 @@
 table{
 	border-collapse:collapse;
 	border:solid orange;
-	border-width: 1px 1px 0px 0px;
+	border-width:0px 0px 1px 1px;
 }
 th{
 	background-color:#888888;
@@ -10,7 +10,7 @@ th{
 }
 th, td {
   border:solid orange;
-  border-width:0px 0px 1px 1px;
+  border-width:1px;
   padding: 3px 5px;
   text-align: center;
 }
