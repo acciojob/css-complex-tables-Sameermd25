@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+table{
+	border-collapse:collapse;
+	border:1px solid #FFDAA8;
+	text-align:center;
+}
+td{
+	padding:20px;
+}
+th{
+	background-color:#888888;
+	color:white;
+}
