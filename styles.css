@@ -1,13 +1,18 @@
 /*  your css code here. If applicable */
 table{
 	border-collapse:collapse;
-	border:1px solid #FFDAA8;
-	text-align:center;
-}
-td{
-	padding:20px;
+	border:1px solid orange;
+	
 }
 th{
 	background-color:#888888;
 	color:white;
+}
+th, td {
+  border: 1px solid orange;
+  padding: 3px 5px;
+  text-align: center;
+}
+.sub-total-text {
+  text-align: right;
 }
